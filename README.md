@@ -4,3 +4,4 @@ The impact of the new site as a marketing tool was striking: in just three years
 
 *Technologies used to build this website: DHTML, CSS, JavaScript, PHP, third-party API integration.*
 
+[https://simplebeat.github.io/albatross/](https://simplebeat.github.io/albatross/)
