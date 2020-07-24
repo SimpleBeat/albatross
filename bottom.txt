@@ -1,0 +1,10 @@
+   </Td>
+   <Td width="5" style="background: url(img/right.gif) repeat-y"></Td>
+  </Tr>
+  <!-- Низ -->
+  <Tr>
+   <Td colspan="5"><img src="img/bottom.gif" height="30" width="740" alt="Театр кукол Альбатрос" hspace="0" vspace="0" border="0"></Td>
+  </Tr>
+ </Table>
+</BODY>
+</HTML>

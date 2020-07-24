@@ -1,0 +1,174 @@
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Администрация сайта</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">24 Feb 2007, 22:36</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Уважаемые посетители сайта! Мы рады сообщить, что вновь заработал раздел Отзывы! Оставляйте свои комментарии, вопросы, пожелания. Поверьте, Ваше мнение очень ценно для нас.</div>
+  </td></tr>
+ </table>
+</Div>
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Буров Дмитрий</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">24 Feb 2007, 22:37</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">дочери 4 года уже все пересмотрели по 2раза а колобок и поиграем по 3-4 раза. в ноябре ваш директор обещал расширить репертуар. обещал с 1 декабря - уже март на дворе а кота в сапогах (он в сапогах) на офише нет  доч каждую пятницу требует купить билет на спектакль он в сапогах(кот в сапогах) мне дядя директор обещал. кагда он всеже появиться в репертуаре вашего очень хорошего театра. неужели маски до сих пор не готовы не порядок.  ну а сами спектакли просто КЛАСС РЕБЕНКУ ОЧЕНЬ НРАВИТСЯ</div>
+<Div class="maintext">
+<table align="center" width="400" border="0" cellpadding="0" cellspacing="1">
+  <tr><td width="400" bgcolor="#ffe2c8">
+    <Div class="maintext">Уважаемый Дмитрий! Действительно, спектакль КТО В САПОГАХ? планировался к выпуску в декабре прошлого года. К нашему величайшему сожалению, техническая сторона постановки (а именно изготовление кукол и декораций) оказалась не до конца подготовлена. Тем не менее, было принято решение выпустить новый спектакль ориентировочно весной этого года. Следите за новостями!</div>
+  </td></tr>
+ </table>
+</Div>
+  </td></tr>
+ </table>
+</Div>
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Пожидаева Светлана        </span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">26 Feb 2007, 10:55</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Были на вашем спектакле ПОИГРАЕМ В ТЕАТР - очень понравилось!!! Спектакль очень хороший,но для 4-х летних детишек уже поздновато:все-таки ответить как лает собачка для них уже слишком просто,но зато наши девочки блистали знаниями.А самое интересное началось после спектакля-общение с куклами.А ещё нам открыли секрет как сделать самим театральную игрушку-еле доехали до дома-торопились сделать киску из варежки и поскорей устроить спектакль для кукол.Так что огромное спасибо за пробуждение актерских талантов.И еще хочеться особенно отметить доброжелательную,домашнюю атмосферу в вашем театре! Спасибо!</div>
+  </td></tr>
+ </table>
+</Div>
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Анна</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">14 Mar 2007, 05:51</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Большое спасибо за спектакли! 
+Очень понравится и мне и трех летней дочери.
+Особенно танец туфель-скороходов.
+</div>
+  </td></tr>
+ </table>
+</Div>
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Катя</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">31 Mar 2007, 10:53</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Здравствуйте дорогие  альбатросы. Огромное вам спасибо за вашу добрую и нужную работу. Очень приятно ваше заботливое и ответственное отошение к детям, достойное лучших педагогов.
+К сожалению мне не удалось найти на сайте имен ваших актеров, а народ, согласитесь, должен знать своих героев. Есть ли у них еще  какие-то работы? Может быть аудиозаписи?
+Заранее спасибо.</div>
+<Div class="maintext">
+<table align="center" width="400" border="0" cellpadding="0" cellspacing="1">
+  <tr><td width="400" bgcolor="#ffe2c8">
+    <Div class="maintext">Здравствуйте и вам, Катя! Спасибо за приятный отзыв! Уже в середине апреля наш сайт откроет страничку об актерах театра, где мы расскажем о нашей труппе и о каждом актере отдельно. И, конечно, вы можете поговорить с актерами 'вживую', их всегда можно увидеть в зрительном зале до или после спектакля.</div>
+  </td></tr>
+ </table>
+</Div>
+  </td></tr>
+ </table>
+</Div>
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Татьяна</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">01 Apr 2007, 23:50</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Безумно люблю ваш театр и всегда по возможности его рекламирую и советую сходить на эти спектакли!!!
+Очень жаль что такой маленький репертуар и что нет новинок ( для детей до  5 лет)
+ДО сих пор под впечатлением от Новогоднего представления!! Это был самый лучший утренник из всех  на какие мы ходили! И к слову сказать - самые лучшие качественные подарки! А это очень приятно - когда видишь что к твоему ребенку подходят с душой! 
+Спасибо ВАМ что вы есть - и побольше спектаклей!! И рекламируйте себя!! Хотя бы афиши на остановках расклеивайте!!! А то даже живущие в Измайлово о вас не знают!!!! </div>
+<Div class="maintext">
+<table align="center" width="400" border="0" cellpadding="0" cellspacing="1">
+  <tr><td width="400" bgcolor="#ffe2c8">
+    <Div class="maintext">Доброго времени суток, Татьяна! Спасибо за слова благодарности! А на счет рекламы - в самом скором времени на нашем сайте появится фоторепортаж с выставки 'PRO-Театр', проходившей 31 марта и 1 апреля в рамках фестиваля 'Золотая Маска 2007' в Новом Манеже. За эти два дня представители театра познакомились с множеством интересных людей, это и наши коллеги из других театров России, и сценаристы, и антрепренеры, и, надеемся, будущие зрители. Наш необычный, красочный стенд привлек внимание сотен людей, что, конечно, расширит нашу аудиторию.</div>
+  </td></tr>
+ </table>
+</Div>
+  </td></tr>
+ </table>
+</Div>
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Алёна и Игорь</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">07 Apr 2007, 16:56</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Спасибо Вам за добрую уютную атмосферу театра. Посмотрели спектакль "Маленький Мук". Очень понравились: танец волшебных туфель и красивые куклы - Зубейда,негр с секирой и принцесса Мими. Особенно здорово сделано волшебное зеркало - лучше, чем настоящее :) :) Жаль только, что такая красивая кукла, как принцесса Мими, так мало появляется на сцене. Так бы хотелось рассмотреть ее получше.</div>
+  </td></tr>
+ </table>
+</Div>
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Светлана</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">15 Apr 2007, 14:59</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Здравствуйте, все! Сегодня были в театре впервые. Чудный, чудный "Колобок"! Моему маленькому (2 г и 3 мес) было тяжеловато всё высидеть, но обоим мальчикам и мне, маме, особенно, спектакль очень понравился, настоящее представление. И подвигаться дали, и покричать, и похлопать. Отдельно хочется отметить работу "гардеробшицы": молоденькая, красивая, улыбчивая, приветливая: выше всяких похвал! Обязательно придем к вам ещё и ещё.</div>
+  </td></tr>
+ </table>
+</Div>
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Наталья</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">29 Apr 2007, 22:34</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Смотрели спектакль "Колобок" с дочкой 3 лет. Ребенок ни разу не сказал : "Мама, все?". Сидела, не отрываясь, следя за действием на сцене. Хотя спектакль идет 1 час без перерыва. Взрослым тоже было весело слышать реплики детей по ходу спектакля. Обязательно придем в театр еще.</div>
+  </td></tr>
+ </table>
+</Div>
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Наташа и Лиза (3 года)</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">02 May 2007, 13:27</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Были на спектакле "Колобок" - чудо, катарсис! Спектакль музыкальный, остроумный и просто умный, сделан с большим вкусом. Как это ни парадоксально звучит, но СЮЖЕТ захватил полностью и взрослых, и детей, так что час времени пролетел за 5 минут. Наличие ведущего, который ведет диалог с детьми, переключает их внимание и не дает уставать. 
+Замечательные маски и под стать им - бесподобная игра актеров, с душой, с талантом. Обязательно пойдем на этот спектакль еще раз - и папу с собой возьмем, чтобы и он насладился настоящим искусством. Огромное спасибо!</div>
+  </td></tr>
+ </table>
+</Div>
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Катя</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">16 May 2007, 15:57</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Здравствуйте, дорогие альбатросы. Простите за настойчивость, но когда же, наконец, будет "Кот в сапогах"? Я ведь обещала дочке и она требует! Кстати, вы планируете гастроли или остаетесь на лето в Москве? Любим и с нетерпением ждем ваших новых спектаклей.</div>
+  </td></tr>
+ </table>
+</Div>
+
+<Div class="maintext">
+<table align="center" width="450" border="0" cellpadding="0" cellspacing="1">
+  <tr> 
+    <td width="225" bgcolor="#fffccc"><Span class="headerdate" style="text-align: left; font-family: 'Verdana'; font-style: normal; font-weight: 700; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">Вадим Шульц</span></td>
+    <td width="225" bgcolor="#fffccc" align="right"><Span class="headerdate" style="text-align: right; font-family: 'Verdana'; font-style: italic; font-weight: 400; line-height: normal; margin-top: 1px; margin-bottom: 3px; margin-left: 7px; margin-right: 3px">02 Jul 2007, 17:28</span></td>
+  </tr>
+  <tr><td colspan="2" width="450" bgcolor="#e4effe">
+    <Div class="maintext">Спасибо большое за теплые слова и ссылки на мой сайт. Работа с вашим коллективом доставила мне истинное удовольствие.
+С уважением, Вадим Шульц.</div>
+  </td></tr>
+ </table>
+</Div>
